@@ -14,8 +14,8 @@
  
 ![aftr](https://user-images.githubusercontent.com/48630662/97812959-faa3f800-1caa-11eb-9420-e9f8c44a2ceb.jpg)
 
->**The copy icon can be presses to copy the shortened URL, and can be used anywhere.**
+>**The copy icon can be pressed to copy the shortened URL, and can be used anywhere.**
 <p>
   </p>
   
- >**PS: Ignore the poor UI color (not a good desinger yet.😛)**
+ >**PS: Ignore the poor UI color choice(not a good desinger yet.😛)**
