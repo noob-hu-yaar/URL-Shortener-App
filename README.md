@@ -1,21 +1,16 @@
-# URL-Shortener-App
->**An URL shortener made using [shrtcode API](https://app.shrtco.de/docs).**
+# urls
 
-<p>
-  </p>
-  
- >**The initial screen looks as such.**
-  
-  ![initial](https://user-images.githubusercontent.com/48630662/97812923-cfb9a400-1caa-11eb-8044-0baadc79c291.jpg)
+A new Flutter project.
 
->**Result screen.**
-<p>
- </p>
- 
-![aftr](https://user-images.githubusercontent.com/48630662/97812959-faa3f800-1caa-11eb-9420-e9f8c44a2ceb.jpg)
+## Getting Started
 
->**The copy icon can be pressed to copy the shortened URL, and can be used anywhere.**
-<p>
-  </p>
-  
- >**PS: Ignore the poor UI color choice(not a good desinger yet.😛)**
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
