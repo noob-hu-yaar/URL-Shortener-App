@@ -8,7 +8,7 @@
 
 
 
->**The results are displayed as such shown below. Upon clickin the copy button, the link gets copied and can be used elsewhere.**
+>**The results are displayed as such shown below. Upon clicking the copy button, the link gets copied and can be used elsewhere.**
 
 ![aftr](https://user-images.githubusercontent.com/48630662/97813340-7dc64d80-1cad-11eb-89f2-e11489107f0e.jpg)
 
