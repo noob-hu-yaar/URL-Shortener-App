@@ -1,5 +1,5 @@
 # URL-Shortener-App
->**An URl shortener made using [shrtcode API](https://app.shrtco.de/docs).**
+>**An URL shortener made using [shrtcode API](https://app.shrtco.de/docs).**
 
 <p>
   </p>
